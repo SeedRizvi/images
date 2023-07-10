@@ -1,2 +1,2 @@
 # images
-Two image files for another project that is no longer available.
+Two background image files for a project that is no longer available.
